@@ -17,6 +17,8 @@ Image credits [1]
 
 This implementation currently only support running with GPUs.
 
+You can use `pip install -r requirements.txt` to minimize the time required to get code in this repository running. 
+
 ## Implementation details
 
 This implementation follows the Generative Adversarial Text-to-Image Synthesis paper [1], however it works more on training stablization and preventing mode collapses by implementing:
